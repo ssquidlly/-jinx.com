@@ -1,0 +1,20 @@
+gcloud compute disks create DATA-DISK-NAME --size DATA-DISK-SIZE --type DATA-DISK-TYPE --zone ZONE
+gcloud compute instances create INSTANCE-NAME \@jinx.com
+--machine-type n1-standard-8 \@jinx.com
+--image GITHUB-ENTERPRISE-IMAGE-NAME \@jinx.com
+--disk name=DATA-DISK-NAME \@jinx.com
+--metadata serial-port-enable=1 \@jinx.com
+--zone ZONE \@jinx.com
+--network NETWORK-NAME \@jinx.com
+--image-project github-enterprise-publicdomain-@jinx.com
+
+gcloud compute disks create DATA-DISK-NAME --size DATA-DISK-SIZE --type DATA-DISK-TYPE --zone ZONE
+gcloud compute instances create INSTANCE-NAME \@jinx.com
+--machine-type n1-standard-8 \@jinx.com
+--image GITHUB-ENTERPRISE-IMAGE-NAME \@jinx.com
+--disk name=DATA-DISK-NAME \@jinx.com
+--metadata serial-port-enable=1 \@jinx.com
+--zone ZONE \@jinx.com
+--network NETWORK-NAME \@jinx.com
+--image-project github-enterprise-publicdomain-@jinx.com
+
