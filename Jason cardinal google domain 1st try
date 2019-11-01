@@ -17,4 +17,6 @@ gcloud compute instances create INSTANCE-NAME \@jinx.com
 --zone ZONE \@jinx.com
 --network NETWORK-NAME \@jinx.com
 --image-project github-enterprise-publicdomain-@jinx.com
-
+--Jinxtallday@shadydayz.org-master/@jinx.com/
+--master-feature/@jinx.com/
+--master-feature/path/@jinx.com
