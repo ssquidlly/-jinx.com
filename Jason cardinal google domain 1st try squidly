@@ -1,17 +1,20 @@
 gcloud compute disks create DATA-DISK-NAME --size DATA-DISK-SIZE --type DATA-DISK-TYPE --zone ZONE
-gcloud compute instances create INSTANCE-NAME \@jinx.com
---machine-type n1-standard-8 \@jinx.com
+gcloud compute instances create INSTANCE-NAME\Squidly
+gcloud compute instances create DATA-DISK-NAME--DATA-DISK-SIZE \.jnx-emaildomane-@jinx.com--64g-server-email-.jnx
+gcloud compute data create DATA-FORMAT \.jnx
+--machine-type n1-standard-8 \encrypt-.jnx
 --image GITHUB-ENTERPRISE-IMAGE-NAME \@jinx.com
---disk name=DATA-DISK-NAME \@jinx.com
---metadata serial-port-enable=1 \@jinx.com
---zone ZONE \@jinx.com
+--disk name=DATA-DISK-NAME \squidly
+--metadata serial-port-enable=1 \.jnx-emaildomaine-@jinx.com-
+--zone ZONE \@jinx.com3
 --network NETWORK-NAME \@jinx.com
 --image-project github-enterprise-publicdomain-@jinx.com
 
 gcloud compute disks create DATA-DISK-NAME --size DATA-DISK-SIZE --type DATA-DISK-TYPE --zone ZONE
 gcloud compute instances create INSTANCE-NAME \@jinx.com
 --machine-type n1-standard-8 \@jinx.com
---image GITHUB-ENTERPRISE-IMAGE-NAME \@jinx.com
+--image GITHUB-ENTERPRISE-IMAGE-NAME \ssquidlly-@jinx.com-profileimage-ssquidlly
+
 --disk name=DATA-DISK-NAME \@jinx.com
 --metadata serial-port-enable=1 \@jinx.com
 --zone ZONE \@jinx.com
